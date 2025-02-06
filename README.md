@@ -29,6 +29,6 @@
 Чтобы установить проект, выполните следующие команды:
 
 ```bash
-git clone https://github.com/Aleksej1024/analog_device_value_cv
-cd analog_device_value_cv
+git clone https://github.com/Aleksej1024/big_data_regression_2025
+cd big_data_regression_2025
 pip install -r requirements.txt# big_data_regression_rea2025
